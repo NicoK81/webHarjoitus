@@ -7,3 +7,11 @@ body{
 .img{
     size: 200px;
 }
+
+.grid{
+    background: #f8efbc;
+    width: 90%;
+    max-width: 500px;
+    margin: 100px auto 0;
+    padding: 30px;
+}
